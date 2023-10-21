@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="welcome_to_tic_tac_toe" />
+    <string name="grid" />
+    <string name="space" />
+    <string name="x_s_turn_tap_to_play" />
+</resources>
